@@ -51,6 +51,7 @@
 		041B27BC277DCE0B00FDADCD /* ThreeDCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeDCardView.swift; sourceTree = "<group>"; };
 		041B27BE277DCE1200FDADCD /* ThreeDCardCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeDCardCell.swift; sourceTree = "<group>"; };
 		041B27C0277DCE1700FDADCD /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		041B27CB277E135E00FDADCD /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = "<group>"; };
 		04447BE4CCEFCDF41ADEF4A5628DD113 /* ThreeDCardView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ThreeDCardView-prefix.pch"; sourceTree = "<group>"; };
 		04BC16A55CE7894A746C3C651CB9FA50 /* ThreeDCardView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ThreeDCardView.modulemap; sourceTree = "<group>"; };
 		0F6478DD03E77E3F0C94AD657D022A8B /* ThreeDCardView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ThreeDCardView-dummy.m"; sourceTree = "<group>"; };
@@ -73,7 +74,6 @@
 		8CB28664DFE81063E21CE0934A682C0A /* Pods-ThreeDCardView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ThreeDCardView_Example-umbrella.h"; sourceTree = "<group>"; };
 		8EE10002AC3E4FC265A8DFDBA4B31F88 /* Pods-ThreeDCardView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ThreeDCardView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		945DB9BE14EF1CD65F74DB96B8922CC6 /* Pods-ThreeDCardView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ThreeDCardView_Example.modulemap"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9E418A9CDC686325188D7CAC /* Pods_Pods_ThreeDCardView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Pods_ThreeDCardView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0F8016A2FE9E710F709F18ACC761C47 /* Pods_ThreeDCardView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ThreeDCardView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1776B9F3B6DD527D4C244B81F205706 /* Pods-ThreeDCardView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ThreeDCardView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -180,7 +180,6 @@
 				E66E23A5ED2C242947F46C8C /* Pods-ThreeDCardView.debug.xcconfig */,
 				E39CA33D480CE747C7D42D38 /* Pods-ThreeDCardView.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -245,7 +244,7 @@
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
-				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
+				041B27CB277E135E00FDADCD /* Podfile */,
 				3A1FA278679E571878CCD9D3954B662A /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				90C55797459A73C22AD4C7CF58C893CD /* Products */,
@@ -404,7 +403,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "_Pods" */;
+			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -894,7 +893,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "_Pods" */ = {
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				25AD9454612BF454A1E3DC4CD4FA8C6D /* Debug */,
