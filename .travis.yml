@@ -1,8 +1,9 @@
-osx_image: xcode11.7
 language: swift
-os: osx
+osx_image: xcode11.3
 xcode_workspace: ThreeDCardView.xcworkspace
-xcode_scheme: ThreeDCardView
-xcode_destination: platform=iOS Simulator,OS=13.7,name=iPhone 8
+xcode_scheme: ThreeDCardView-Example
+xcode_destination: platform=iOS Simulator,OS=13.3,name=iPhone 11 Pro Max
 before_install:
+- gem install cocoapods
+- cd Example
 - pod install
