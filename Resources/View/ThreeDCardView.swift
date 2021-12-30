@@ -7,7 +7,7 @@
 
 import UIKit
 
-public class ThreeDCardView:UIView {
+open class ThreeDCardView:UIView {
 
     //MARK:- Properties
     

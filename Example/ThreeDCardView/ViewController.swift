@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import Pods_ThreeDCardView_Example
+import ThreeDCardView
 
 class ViewController: UIViewController {
     
