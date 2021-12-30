@@ -1,8 +1,7 @@
 {
   "name": "ThreeDCardView",
-  "version": "0.1.0",
-  "summary": "A short description of ThreeDCardView.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "0.1.5",
+  "summary": "This is ThreeDCardView.",
   "homepage": "https://github.com/fomagran/ThreeDCardView",
   "license": {
     "type": "MIT",
@@ -13,10 +12,12 @@
   },
   "source": {
     "git": "https://github.com/fomagran/ThreeDCardView.git",
-    "tag": "0.1.0"
+    "tag": "0.1.5"
   },
   "platforms": {
-    "ios": "9.0"
+    "ios": "11.0"
   },
-  "source_files": "ThreeDCardView/Classes/**/*"
+  "swift_versions": "5.0",
+  "source_files": "ThreeDCardView/Classes/**/*",
+  "swift_version": "5.0"
 }
