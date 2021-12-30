@@ -41,11 +41,11 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		71E5D07539991150983A2BA5 /* Pods_ThreeDCardView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ThreeDCardView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		7FE013270897E9C78427324A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		986B9AE111664A6A82843367 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		7FE013270897E9C78427324A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		986B9AE111664A6A82843367 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		9A7187A70A418EA12AB402F0 /* Pods-ThreeDCardView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ThreeDCardView_Example.debug.xcconfig"; path = "Target Support Files/Pods-ThreeDCardView_Example/Pods-ThreeDCardView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		BA900E4D91157C46EB5279F2 /* Pods_ThreeDCardView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ThreeDCardView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		CA17E67FF7F91FB2DB328801 /* ThreeDCardView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ThreeDCardView.podspec; path = ../ThreeDCardView.podspec; sourceTree = "<group>"; };
+		CA17E67FF7F91FB2DB328801 /* ThreeDCardView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ThreeDCardView.podspec; path = ../ThreeDCardView.podspec; sourceTree = "<group>"; };
 		FE506A53490AB9CCCACF51FC /* Pods-ThreeDCardView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ThreeDCardView_Example.release.xcconfig"; path = "Target Support Files/Pods-ThreeDCardView_Example/Pods-ThreeDCardView_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -156,7 +156,6 @@
 				31489AE7A49E079B490D7B07 /* Pods-ThreeDCardView_Tests.debug.xcconfig */,
 				2A3173499AA0C56F9084F423 /* Pods-ThreeDCardView_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -419,7 +419,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -465,7 +465,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
