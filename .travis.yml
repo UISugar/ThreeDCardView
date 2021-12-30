@@ -1,10 +1,8 @@
-language: objective-c
-
-osx_image: xcode10.1
-env:
-  matrix:
-    - TEST_SDK=iphonesimulator12.1 OS=12.1 NAME='iPhone XR'
-    - TEST_SDK=iphonesimulator12.1 OS=12.1 NAME='iPhone 8'
-
-script:
-  - set -o pipefail && xcodebuild test -enableCodeCoverage YES -project SwiftPlayWithString.xcodeproj -scheme SwiftPlayWithString -sdk $TEST_SDK -destination "platform=iOS Simulator,OS=$OS,name=$NAME" ONLY_ACTIVE_ARCH=YES
+osx_image: xcode11.7
+language: swift
+os: osx
+xcode_workspace: ThreeDCardView.xcworkspace
+xcode_scheme: ThreeDCardView
+xcode_destination: platform=iOS Simulator,OS=13.7,name=iPhone 8
+before_install:
+- pod install
