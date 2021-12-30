@@ -1,0 +1,6 @@
+framework module Pods_Pods_ThreeDCardView_Example {
+  umbrella header "Pods-Pods-ThreeDCardView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

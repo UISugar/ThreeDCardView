@@ -1,0 +1,6 @@
+framework module ThreeDCardView {
+  umbrella header "ThreeDCardView-umbrella.h"
+
+  export *
+  module * { export * }
+}

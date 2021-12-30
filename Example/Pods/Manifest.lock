@@ -1,0 +1,16 @@
+PODS:
+  - ThreeDCardView (0.1.0)
+
+DEPENDENCIES:
+  - ThreeDCardView (from `../`)
+
+EXTERNAL SOURCES:
+  ThreeDCardView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ThreeDCardView: 9ae70eed4f9b5cb8e820ba37938699707fc2f64a
+
+PODFILE CHECKSUM: dcf0357f0f889dd7b09cdeec8961a9f3f83d1a28
+
+COCOAPODS: 1.11.2
