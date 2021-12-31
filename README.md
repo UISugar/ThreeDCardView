@@ -1,6 +1,5 @@
 # ThreeDCardView
 
-[![CI Status](https://img.shields.io/travis/fomagran/ThreeDCardView.svg?style=flat)](https://travis-ci.org/fomagran/ThreeDCardView)
 [![Version](https://img.shields.io/cocoapods/v/ThreeDCardView.svg?style=flat)](https://cocoapods.org/pods/ThreeDCardView)
 [![License](https://img.shields.io/cocoapods/l/ThreeDCardView.svg?style=flat)](https://cocoapods.org/pods/ThreeDCardView)
 [![Platform](https://img.shields.io/cocoapods/p/ThreeDCardView.svg?style=flat)](https://cocoapods.org/pods/ThreeDCardView)
