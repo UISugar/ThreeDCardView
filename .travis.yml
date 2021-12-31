@@ -1,8 +1,6 @@
 language: swift
-osx_image: xcode11.5
-xcode_workspace: ThreeDCardView.xcworkspace
-xcode_scheme: ThreeDCardView-Example
-xcode_destination: platform=iOS Simulator,OS=13.1,name=iPhone 11 Pro
+osx_image: xcode10.1
+- xcodebuild -workspace ThreeDCardView.xcworkspace -scheme ThreeDCardView -sdk iphonesimulator12.1 -destination "platform=iOS Simulator,OS=12.1,name=iPhone Xs Max" -UseModernBuildSystem=NO test | xcpretty --test --color; test ${PIPESTATUS[0]} -eq 0
 before_install:
 - gem install cocoapods
 - cd Example
