@@ -61,6 +61,16 @@
                ReferencedContainer = "container:ThreeDCardView.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "042C6EAE277EB326004C42B0"
+               BuildableName = "ThreeDCardView_ExampleTests.xctest"
+               BlueprintName = "ThreeDCardView_ExampleTests"
+               ReferencedContainer = "container:ThreeDCardView.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
