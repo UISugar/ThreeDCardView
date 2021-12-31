@@ -1,6 +1,6 @@
 {
   "name": "ThreeDCardView",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "This is ThreeDCardView.",
   "homepage": "https://github.com/fomagran/ThreeDCardView",
   "license": {
@@ -12,7 +12,7 @@
   },
   "source": {
     "git": "https://github.com/fomagran/ThreeDCardView.git",
-    "tag": "0.1.5"
+    "tag": "0.1.6"
   },
   "platforms": {
     "ios": "11.0"

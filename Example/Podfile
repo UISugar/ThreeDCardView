@@ -5,8 +5,9 @@ platform :ios, '13.0'
 target 'ThreeDCardView_Example' do
   pod 'ThreeDCardView', :path => '../'
 
-  target 'ThreeDCardView_Tests' do
-    inherit! :search_paths
-    
-  end
+end
+
+target 'ThreeDCardView_Tests' do
+  inherit! :search_paths
+  
 end

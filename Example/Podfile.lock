@@ -1,5 +1,5 @@
 PODS:
-  - ThreeDCardView (0.1.5)
+  - ThreeDCardView (0.1.6)
 
 DEPENDENCIES:
   - ThreeDCardView (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ThreeDCardView: bb5ff16484bebdffec496934cd81e44a9af09226
+  ThreeDCardView: c392ac6edcf50d04177a86fa73c7d430e8e36761
 
 PODFILE CHECKSUM: e20ca3f9bedfdffdce22d70cf0ff11063e76ad86
 
