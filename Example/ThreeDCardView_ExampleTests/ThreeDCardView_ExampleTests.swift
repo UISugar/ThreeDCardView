@@ -7,6 +7,7 @@
 //
 
 import XCTest
+import ThreeDCardView
 
 class ThreeDCardView_ExampleTests: XCTestCase {
 
