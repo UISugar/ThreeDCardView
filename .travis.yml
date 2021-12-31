@@ -1,4 +1,9 @@
-os: osx
-osx_image: xcode10.1
+osx_image: xcode11.7
 language: swift
-script: xcodebuild clean build test  -workspace Example/ThreeDCardView.xcworkspace -scheme ThreeDCardView-Example -sdk iphonesimulator -destination “platform=iOS Simulator,OS=12.1,name=iPhone 6” ONLY_ACTIVE_ARCH=NO CODE_SIGNING_REQUIRED=NO
+os: osx
+xcode_workspace: ThreeDCardView.xcworkspace
+xcode_scheme: ThreeDCardView-Example
+xcode_destination: platform=iOS Simulator,OS=13.7,name=iPhone 8
+before_install:
+- cd Example
+- pod install
