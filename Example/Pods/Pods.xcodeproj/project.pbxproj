@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		042C6E93277EA166004C42B0 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = E680CA081412542159C0DC92D1C21874 /* Card.swift */; };
+		042C6E94277EA16F004C42B0 /* ThreeDCardDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9396C905763905C3A65D4747718A9D /* ThreeDCardDataSource.swift */; };
+		042C6E95277EA173004C42B0 /* ThreeDCardCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13130178133F8515E8417FE22E8B058F /* ThreeDCardCell.swift */; };
+		042C6E96277EA176004C42B0 /* ThreeDCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322658B008609B5DF8D14A5BBA11B3A8 /* ThreeDCardView.swift */; };
 		1548C742708DD6C9EA7B4EB541309744 /* ThreeDCardView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 559683D6DE5F1523832A951FDA1DE12D /* ThreeDCardView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2B1C8C85BA6D86BE8445BCEA364BF449 /* Pods-ThreeDCardView_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AB1B754EC94D563537B53F01E24A98F5 /* Pods-ThreeDCardView_Tests-dummy.m */; };
 		39852D68B9C0BA12002F5F46DD3AE176 /* ThreeDCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322658B008609B5DF8D14A5BBA11B3A8 /* ThreeDCardView.swift */; };
@@ -44,14 +48,14 @@
 		13130178133F8515E8417FE22E8B058F /* ThreeDCardCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ThreeDCardCell.swift; sourceTree = "<group>"; };
 		13FCAE533AF285327A1F9BE38185A92B /* Pods-ThreeDCardView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ThreeDCardView_Example-dummy.m"; sourceTree = "<group>"; };
 		322658B008609B5DF8D14A5BBA11B3A8 /* ThreeDCardView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ThreeDCardView.swift; sourceTree = "<group>"; };
-		3A32BB6524E86D32B3438C2FCF0AB8B9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		3A32BB6524E86D32B3438C2FCF0AB8B9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		5130705E1A4D7EDA03D51FE843DEE6C8 /* Pods-ThreeDCardView_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ThreeDCardView_Tests-Info.plist"; sourceTree = "<group>"; };
 		51C969B8853518D382CF27202F31630D /* ThreeDCardView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ThreeDCardView-prefix.pch"; sourceTree = "<group>"; };
 		559683D6DE5F1523832A951FDA1DE12D /* ThreeDCardView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ThreeDCardView-umbrella.h"; sourceTree = "<group>"; };
 		5A44E46733B9D40A5B154D355FD23DA2 /* Pods-ThreeDCardView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ThreeDCardView_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		5B018FD39B0D7A1C61C588DD097A1A72 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		5B018FD39B0D7A1C61C588DD097A1A72 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5DD0FCBE9E88541AFA9A88DF620EAA0E /* Pods-ThreeDCardView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ThreeDCardView_Tests-umbrella.h"; sourceTree = "<group>"; };
-		6B3AF052B98CF47C69230E3A1083E3BA /* ThreeDCardView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ThreeDCardView.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		6B3AF052B98CF47C69230E3A1083E3BA /* ThreeDCardView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = ThreeDCardView.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		6E9A06E6F77BDFA3C86E0F71ED4BDA2D /* ThreeDCardView.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ThreeDCardView.release.xcconfig; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7583D8E77696AFBD26CF251A7E4648F2 /* Pods-ThreeDCardView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ThreeDCardView_Tests.modulemap"; sourceTree = "<group>"; };
@@ -59,7 +63,7 @@
 		8CB28664DFE81063E21CE0934A682C0A /* Pods-ThreeDCardView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ThreeDCardView_Example-umbrella.h"; sourceTree = "<group>"; };
 		8EE10002AC3E4FC265A8DFDBA4B31F88 /* Pods-ThreeDCardView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ThreeDCardView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		945DB9BE14EF1CD65F74DB96B8922CC6 /* Pods-ThreeDCardView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ThreeDCardView_Example.modulemap"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A0F8016A2FE9E710F709F18ACC761C47 /* Pods-ThreeDCardView_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-ThreeDCardView_Tests"; path = Pods_ThreeDCardView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1776B9F3B6DD527D4C244B81F205706 /* Pods-ThreeDCardView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ThreeDCardView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		A897515687BB50741A257D5361857F03 /* ThreeDCardView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ThreeDCardView.modulemap; sourceTree = "<group>"; };
@@ -424,6 +428,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				2B1C8C85BA6D86BE8445BCEA364BF449 /* Pods-ThreeDCardView_Tests-dummy.m in Sources */,
+				042C6E95277EA173004C42B0 /* ThreeDCardCell.swift in Sources */,
+				042C6E96277EA176004C42B0 /* ThreeDCardView.swift in Sources */,
+				042C6E93277EA166004C42B0 /* Card.swift in Sources */,
+				042C6E94277EA16F004C42B0 /* ThreeDCardDataSource.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -702,8 +710,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
