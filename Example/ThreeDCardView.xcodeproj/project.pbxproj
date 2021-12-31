@@ -47,7 +47,7 @@
 		986B9AE111664A6A82843367 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		9A7187A70A418EA12AB402F0 /* Pods-ThreeDCardView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ThreeDCardView_Example.debug.xcconfig"; path = "Target Support Files/Pods-ThreeDCardView_Example/Pods-ThreeDCardView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		BA900E4D91157C46EB5279F2 /* Pods_ThreeDCardView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ThreeDCardView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		CA17E67FF7F91FB2DB328801 /* ThreeDCardView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ThreeDCardView.podspec; path = ../ThreeDCardView.podspec; sourceTree = "<group>"; };
+		CA17E67FF7F91FB2DB328801 /* ThreeDCardView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ThreeDCardView.podspec; path = ../ThreeDCardView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		FE506A53490AB9CCCACF51FC /* Pods-ThreeDCardView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ThreeDCardView_Example.release.xcconfig"; path = "Target Support Files/Pods-ThreeDCardView_Example/Pods-ThreeDCardView_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

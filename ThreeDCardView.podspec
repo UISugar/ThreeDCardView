@@ -14,6 +14,6 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'fomagran' => 'fomagran6@naver.com' }
   s.source           = { :git => 'https://github.com/fomagran/ThreeDCardView.git', :tag => s.version.to_s }
-  s.ios.deployment_target = '12.0'
+  s.ios.deployment_target = '9.3'
   s.source_files = 'ThreeDCardView/Classes/**/*'
 end
