@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		042C6EBF277EB34B004C42B0 /* ThreeDCardView_ExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042C6EBE277EB34B004C42B0 /* ThreeDCardView_ExampleTests.swift */; };
+		042C6ECF277F023B004C42B0 /* ThreeDCardView_ExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042C6EBE277EB34B004C42B0 /* ThreeDCardView_ExampleTests.swift */; };
 		48F0AB2D37F98EBAF97BE9DE /* Pods_ThreeDCardView_ExampleTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 498F32288FE18B2B974FBA9E /* Pods_ThreeDCardView_ExampleTests.framework */; };
 		607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD51AFB9204008FA782 /* AppDelegate.swift */; };
 		607FACD81AFB9204008FA782 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD71AFB9204008FA782 /* ViewController.swift */; };
@@ -328,7 +328,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				042C6EBF277EB34B004C42B0 /* ThreeDCardView_ExampleTests.swift in Sources */,
+				042C6ECF277F023B004C42B0 /* ThreeDCardView_ExampleTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

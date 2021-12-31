@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		042C6EC6277F01EF004C42B0 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = E680CA081412542159C0DC92D1C21874 /* Card.swift */; };
+		042C6EC7277F01F3004C42B0 /* ThreeDCardDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9396C905763905C3A65D4747718A9D /* ThreeDCardDataSource.swift */; };
+		042C6EC8277F01F4004C42B0 /* ThreeDCardDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9396C905763905C3A65D4747718A9D /* ThreeDCardDataSource.swift */; };
+		042C6EC9277F01F7004C42B0 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = E680CA081412542159C0DC92D1C21874 /* Card.swift */; };
+		042C6ECA277F01FC004C42B0 /* ThreeDCardCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13130178133F8515E8417FE22E8B058F /* ThreeDCardCell.swift */; };
+		042C6ECB277F01FC004C42B0 /* ThreeDCardCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13130178133F8515E8417FE22E8B058F /* ThreeDCardCell.swift */; };
+		042C6ECC277F01FF004C42B0 /* ThreeDCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322658B008609B5DF8D14A5BBA11B3A8 /* ThreeDCardView.swift */; };
+		042C6ECD277F01FF004C42B0 /* ThreeDCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322658B008609B5DF8D14A5BBA11B3A8 /* ThreeDCardView.swift */; };
 		1548C742708DD6C9EA7B4EB541309744 /* ThreeDCardView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 559683D6DE5F1523832A951FDA1DE12D /* ThreeDCardView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		39852D68B9C0BA12002F5F46DD3AE176 /* ThreeDCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322658B008609B5DF8D14A5BBA11B3A8 /* ThreeDCardView.swift */; };
 		44BC744CEB02104A1090F2146917F04C /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = E680CA081412542159C0DC92D1C21874 /* Card.swift */; };
@@ -396,6 +404,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				88FB62CDA2C726409FC37AB0744921CD /* Pods-ThreeDCardView_Example-dummy.m in Sources */,
+				042C6ECB277F01FC004C42B0 /* ThreeDCardCell.swift in Sources */,
+				042C6ECD277F01FF004C42B0 /* ThreeDCardView.swift in Sources */,
+				042C6EC6277F01EF004C42B0 /* Card.swift in Sources */,
+				042C6EC7277F01F3004C42B0 /* ThreeDCardDataSource.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -415,6 +427,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				042C6EC8277F01F4004C42B0 /* ThreeDCardDataSource.swift in Sources */,
+				042C6ECA277F01FC004C42B0 /* ThreeDCardCell.swift in Sources */,
+				042C6ECC277F01FF004C42B0 /* ThreeDCardView.swift in Sources */,
+				042C6EC9277F01F7004C42B0 /* Card.swift in Sources */,
 				D3B64D69C247E205D71F12AC1FC1FFEC /* Pods-ThreeDCardView_ExampleTests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
