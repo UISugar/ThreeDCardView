@@ -1,5 +1,4 @@
 import XCTest
-import ThreeDCardView
 
 class Tests: XCTestCase {
     
