@@ -55,17 +55,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "607FACE41AFB9204008FA782"
-               BuildableName = "ThreeDCardView_Tests.xctest"
-               BlueprintName = "ThreeDCardView_Tests"
-               ReferencedContainer = "container:ThreeDCardView.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "042C6EAE277EB326004C42B0"
+               BlueprintIdentifier = "042C6EBB277EB34B004C42B0"
                BuildableName = "ThreeDCardView_ExampleTests.xctest"
                BlueprintName = "ThreeDCardView_ExampleTests"
                ReferencedContainer = "container:ThreeDCardView.xcodeproj">
