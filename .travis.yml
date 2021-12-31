@@ -4,7 +4,7 @@ language: swift
 sudo: required
 osx_image: xcode10.3
 xcode_workspace: ThreeDCardView.xcworkspace
-xcode_scheme: ThreeDCardView-Example
+xcode_scheme: ThreeDCardView_ExampleTests
 xcode_destination: platform=iOS Simulator,OS=12.2,name=iPhone 8
 before_install:
   - export LANG=en_US.UTF-8
