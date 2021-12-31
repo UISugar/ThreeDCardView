@@ -1,12 +1,11 @@
 use_frameworks!
 
-platform :ios, '13.0'
-
 target 'ThreeDCardView_Example' do
   pod 'ThreeDCardView', :path => '../'
-
-end
-
-target 'ThreeDCardView_ExampleTests' do
   
+  target 'ThreeDCardView_ExampleTests' do
+    inherit! :search_paths
+  end
+
 end
+
