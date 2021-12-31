@@ -1,10 +1,9 @@
-osx_image: xcode7.3
-language: objective-c
-# cache: cocoapods
-# podfile: Example/Podfile
-# before_install:
-# - gem install cocoapods # Since Travis is not always on latest version
-# - pod install --project-directory=Example
-script:
-- set -o pipefail && xcodebuild test -enableCodeCoverage YES -workspace Example/ThreeDCardView.xcworkspace -scheme ThreeDCardView-Example -sdk iphonesimulator9.3 ONLY_ACTIVE_ARCH=NO | xcpretty
-- pod lib lint
+osx_image: xcode11.7
+language: swift
+os: osx
+xcode_workspace: ThreeDCardView.xcworkspace
+xcode_scheme: ThreeDCardView-Example
+xcode_destination: platform=iOS Simulator,OS=13.7,name=iPhone 8
+before_install:
+- cd Example
+- pod install
