@@ -6,8 +6,3 @@ target 'ThreeDCardView_Example' do
   pod 'ThreeDCardView', :path => '../'
 
 end
-
-target 'ThreeDCardView_Tests' do
-  inherit! :search_paths
-  
-end
