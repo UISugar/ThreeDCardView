@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ThreeDCardView'
-  s.version          = '0.1.6'
+  s.version          = '1.0.0'
   s.summary          = 'This is ThreeDCardView.'
   s.homepage         = 'https://github.com/fomagran/ThreeDCardView'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
