@@ -1,4 +1,4 @@
-osx_image: xcode11.5
+osx_image: xcode13.1
 language: objective-c
 # cache: cocoapods
 # podfile: Example/Podfile
@@ -6,5 +6,5 @@ language: objective-c
 # - gem install cocoapods # Since Travis is not always on latest version
 # - pod install --project-directory=Example
 script:
-- set -o pipefail && xcodebuild test -enableCodeCoverage YES -workspace Example/ThreeDCardView.xcworkspace -scheme ThreeDCardView-Example -sdk iphonesimulator13.1 ONLY_ACTIVE_ARCH=NO | xcpretty
-- pod lib lint
+- set -o pipefail && xcodebuild test -enableCodeCoverage YES -workspace Example/ThreeDCardView.xcworkspace -scheme ThreeDCardView-Example -sdk iphonesimulator15.0 ONLY_ACTIVE_ARCH=NO | xcpretty
+- pod lib lint --allows-warings
