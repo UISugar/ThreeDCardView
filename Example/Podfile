@@ -6,6 +6,5 @@ target 'ThreeDCardView_Example' do
   target 'ThreeDCardView_ExampleTests' do
     inherit! :search_paths
   end
-
 end
 

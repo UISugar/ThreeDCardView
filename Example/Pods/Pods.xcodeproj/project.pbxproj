@@ -7,30 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		042C6EC6277F01EF004C42B0 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = E680CA081412542159C0DC92D1C21874 /* Card.swift */; };
-		042C6EC7277F01F3004C42B0 /* ThreeDCardDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9396C905763905C3A65D4747718A9D /* ThreeDCardDataSource.swift */; };
-		042C6EC8277F01F4004C42B0 /* ThreeDCardDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9396C905763905C3A65D4747718A9D /* ThreeDCardDataSource.swift */; };
-		042C6EC9277F01F7004C42B0 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = E680CA081412542159C0DC92D1C21874 /* Card.swift */; };
-		042C6ECA277F01FC004C42B0 /* ThreeDCardCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13130178133F8515E8417FE22E8B058F /* ThreeDCardCell.swift */; };
-		042C6ECB277F01FC004C42B0 /* ThreeDCardCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13130178133F8515E8417FE22E8B058F /* ThreeDCardCell.swift */; };
-		042C6ECC277F01FF004C42B0 /* ThreeDCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322658B008609B5DF8D14A5BBA11B3A8 /* ThreeDCardView.swift */; };
-		042C6ECD277F01FF004C42B0 /* ThreeDCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322658B008609B5DF8D14A5BBA11B3A8 /* ThreeDCardView.swift */; };
 		1548C742708DD6C9EA7B4EB541309744 /* ThreeDCardView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 559683D6DE5F1523832A951FDA1DE12D /* ThreeDCardView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		39852D68B9C0BA12002F5F46DD3AE176 /* ThreeDCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322658B008609B5DF8D14A5BBA11B3A8 /* ThreeDCardView.swift */; };
 		44BC744CEB02104A1090F2146917F04C /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = E680CA081412542159C0DC92D1C21874 /* Card.swift */; };
+		4E95403C6FB1E1256CD613E381D4B14C /* Pods-ThreeDCardView_ExampleTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 64B922E663CC1C856B72EE5FF1843C73 /* Pods-ThreeDCardView_ExampleTests-dummy.m */; };
 		6050B9A032B910892EA0081DDBDB39B4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		8739698D2A21DBE76ABD0343BC919D79 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		88FB62CDA2C726409FC37AB0744921CD /* Pods-ThreeDCardView_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 832AE5BDB2ADB4B2E09914547BBF79AE /* Pods-ThreeDCardView_Example-dummy.m */; };
+		8A955494B98135B14A4C0B4C5E513120 /* Pods-ThreeDCardView_ExampleTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0675E57C63B6861319B78A8F340256A8 /* Pods-ThreeDCardView_ExampleTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		92039C916164693AAC6F531AEEB361AC /* Pods-ThreeDCardView_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = EB5ABBE6D84857E19FC0E8A6367C1D98 /* Pods-ThreeDCardView_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9BE50B53CBD33E81E59A6F2B8E5FF77C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		A91F3F3D7F3D5819A3AEED48753EB653 /* Pods-ThreeDCardView_ExampleTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0675E57C63B6861319B78A8F340256A8 /* Pods-ThreeDCardView_ExampleTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A3D9B69CDE152FC50F72C1A6F0A3873A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		BB26B0746D1E39AC5013A697A18E8C8F /* ThreeDCardView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0468E775516177F7833FCE309E8B16D0 /* ThreeDCardView-dummy.m */; };
 		CF95CF0ED5CDE2AF7559539907C1D492 /* ThreeDCardDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9396C905763905C3A65D4747718A9D /* ThreeDCardDataSource.swift */; };
-		D3B64D69C247E205D71F12AC1FC1FFEC /* Pods-ThreeDCardView_ExampleTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 64B922E663CC1C856B72EE5FF1843C73 /* Pods-ThreeDCardView_ExampleTests-dummy.m */; };
 		F1636C510134DC5B30BDA7D85CF8432C /* ThreeDCardCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13130178133F8515E8417FE22E8B058F /* ThreeDCardCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		D14F45EDAC186B9BDDF9ECEF39DAC6B1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EB84EC4E9C9CCDAA59A8AA18443D6A23;
+			remoteInfo = "Pods-ThreeDCardView_Example";
+		};
 		EB7AA0356B557FE09D7E9DED2C0CCD4A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
@@ -51,27 +50,27 @@
 		2D281E00E9EBE687965B8AA4C72D0D14 /* Pods-ThreeDCardView_ExampleTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ThreeDCardView_ExampleTests.modulemap"; sourceTree = "<group>"; };
 		2E69D97607E5FDBDBF5D70FE55ABC380 /* Pods-ThreeDCardView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ThreeDCardView_Example.modulemap"; sourceTree = "<group>"; };
 		322658B008609B5DF8D14A5BBA11B3A8 /* ThreeDCardView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ThreeDCardView.swift; sourceTree = "<group>"; };
-		3A32BB6524E86D32B3438C2FCF0AB8B9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		3A32BB6524E86D32B3438C2FCF0AB8B9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		3E577294386C10728B440F13CEC74E1F /* Pods-ThreeDCardView_ExampleTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ThreeDCardView_ExampleTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		51C969B8853518D382CF27202F31630D /* ThreeDCardView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ThreeDCardView-prefix.pch"; sourceTree = "<group>"; };
 		559683D6DE5F1523832A951FDA1DE12D /* ThreeDCardView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ThreeDCardView-umbrella.h"; sourceTree = "<group>"; };
 		578F0FA6AAEA07D1A79AC4318144B6B3 /* Pods-ThreeDCardView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ThreeDCardView_Example.release.xcconfig"; sourceTree = "<group>"; };
-		5B018FD39B0D7A1C61C588DD097A1A72 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		5B018FD39B0D7A1C61C588DD097A1A72 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		619CD9FD749D94E58DBB9E1DF5B15C63 /* Pods-ThreeDCardView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ThreeDCardView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		64B922E663CC1C856B72EE5FF1843C73 /* Pods-ThreeDCardView_ExampleTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ThreeDCardView_ExampleTests-dummy.m"; sourceTree = "<group>"; };
-		6B3AF052B98CF47C69230E3A1083E3BA /* ThreeDCardView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = ThreeDCardView.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		6B3AF052B98CF47C69230E3A1083E3BA /* ThreeDCardView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ThreeDCardView.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6E9A06E6F77BDFA3C86E0F71ED4BDA2D /* ThreeDCardView.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ThreeDCardView.release.xcconfig; sourceTree = "<group>"; };
-		70581FD9A297BFD8E92E26A538714AFA /* Pods_ThreeDCardView_ExampleTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ThreeDCardView_ExampleTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		70581FD9A297BFD8E92E26A538714AFA /* Pods-ThreeDCardView_ExampleTests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-ThreeDCardView_ExampleTests"; path = Pods_ThreeDCardView_ExampleTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		82A17FA348ECEBAA944241EC733B661E /* Pods-ThreeDCardView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ThreeDCardView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		832AE5BDB2ADB4B2E09914547BBF79AE /* Pods-ThreeDCardView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ThreeDCardView_Example-dummy.m"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A897515687BB50741A257D5361857F03 /* ThreeDCardView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ThreeDCardView.modulemap; sourceTree = "<group>"; };
 		AC9396C905763905C3A65D4747718A9D /* ThreeDCardDataSource.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ThreeDCardDataSource.swift; sourceTree = "<group>"; };
 		C17BF3A3B930F945ECFD7A3FAEF6086E /* Pods-ThreeDCardView_ExampleTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ThreeDCardView_ExampleTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		C1FB7A0FB55F9BBF687210DFBF340963 /* ThreeDCardView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ThreeDCardView-Info.plist"; sourceTree = "<group>"; };
-		E20CEAAB37A3FE345D09E56A8777A54A /* Pods_ThreeDCardView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ThreeDCardView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E2FFD3B21B71A563C7A0BB5D2EDBB1C7 /* ThreeDCardView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ThreeDCardView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E20CEAAB37A3FE345D09E56A8777A54A /* Pods-ThreeDCardView_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-ThreeDCardView_Example"; path = Pods_ThreeDCardView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E2FFD3B21B71A563C7A0BB5D2EDBB1C7 /* ThreeDCardView */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ThreeDCardView; path = ThreeDCardView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E680CA081412542159C0DC92D1C21874 /* Card.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		EB5ABBE6D84857E19FC0E8A6367C1D98 /* Pods-ThreeDCardView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ThreeDCardView_Example-umbrella.h"; sourceTree = "<group>"; };
 		F315FEFBEE14C8A6B441758B00965B75 /* Pods-ThreeDCardView_ExampleTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ThreeDCardView_ExampleTests-Info.plist"; sourceTree = "<group>"; };
@@ -80,11 +79,11 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		349B5AA34A50FBCB160AFD88AF75CE2A /* Frameworks */ = {
+		270D442C01D024E22AF3CD31201D7F9C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8739698D2A21DBE76ABD0343BC919D79 /* Foundation.framework in Frameworks */,
+				A3D9B69CDE152FC50F72C1A6F0A3873A /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -218,9 +217,9 @@
 		C2CE29D7813C0ECBB245688171B13A98 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E20CEAAB37A3FE345D09E56A8777A54A /* Pods_ThreeDCardView_Example.framework */,
-				70581FD9A297BFD8E92E26A538714AFA /* Pods_ThreeDCardView_ExampleTests.framework */,
-				E2FFD3B21B71A563C7A0BB5D2EDBB1C7 /* ThreeDCardView.framework */,
+				E20CEAAB37A3FE345D09E56A8777A54A /* Pods-ThreeDCardView_Example */,
+				70581FD9A297BFD8E92E26A538714AFA /* Pods-ThreeDCardView_ExampleTests */,
+				E2FFD3B21B71A563C7A0BB5D2EDBB1C7 /* ThreeDCardView */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -263,11 +262,11 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		6FD3E25AADD9811B2E4C5C61393CD9B3 /* Headers */ = {
+		1BFAA9281A63E166E82BDB5696E87E3E /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A91F3F3D7F3D5819A3AEED48753EB653 /* Pods-ThreeDCardView_ExampleTests-umbrella.h in Headers */,
+				8A955494B98135B14A4C0B4C5E513120 /* Pods-ThreeDCardView_ExampleTests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -305,25 +304,26 @@
 			);
 			name = ThreeDCardView;
 			productName = ThreeDCardView;
-			productReference = E2FFD3B21B71A563C7A0BB5D2EDBB1C7 /* ThreeDCardView.framework */;
+			productReference = E2FFD3B21B71A563C7A0BB5D2EDBB1C7 /* ThreeDCardView */;
 			productType = "com.apple.product-type.framework";
 		};
 		4DE7378D95DD30B0A69E37709C0A04B4 /* Pods-ThreeDCardView_ExampleTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8A954FA0F67B32DF3DEE918432777167 /* Build configuration list for PBXNativeTarget "Pods-ThreeDCardView_ExampleTests" */;
+			buildConfigurationList = 417DCF457078245F153DA0681551C131 /* Build configuration list for PBXNativeTarget "Pods-ThreeDCardView_ExampleTests" */;
 			buildPhases = (
-				6FD3E25AADD9811B2E4C5C61393CD9B3 /* Headers */,
-				BAC748F92B2BF09260F2BA70DD9696F6 /* Sources */,
-				349B5AA34A50FBCB160AFD88AF75CE2A /* Frameworks */,
-				5F078DCB3CE2CB132D3A736E8F6338FC /* Resources */,
+				1BFAA9281A63E166E82BDB5696E87E3E /* Headers */,
+				0FAC10A14AA4BFA9D3E9F9FA3824068A /* Sources */,
+				270D442C01D024E22AF3CD31201D7F9C /* Frameworks */,
+				267114E7D7BAE27165B3DF69204DBECC /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				EE61E723608D5D1A84CF4C707E09218B /* PBXTargetDependency */,
 			);
 			name = "Pods-ThreeDCardView_ExampleTests";
 			productName = Pods_ThreeDCardView_ExampleTests;
-			productReference = 70581FD9A297BFD8E92E26A538714AFA /* Pods_ThreeDCardView_ExampleTests.framework */;
+			productReference = 70581FD9A297BFD8E92E26A538714AFA /* Pods-ThreeDCardView_ExampleTests */;
 			productType = "com.apple.product-type.framework";
 		};
 		EB84EC4E9C9CCDAA59A8AA18443D6A23 /* Pods-ThreeDCardView_Example */ = {
@@ -342,7 +342,7 @@
 			);
 			name = "Pods-ThreeDCardView_Example";
 			productName = Pods_ThreeDCardView_Example;
-			productReference = E20CEAAB37A3FE345D09E56A8777A54A /* Pods_ThreeDCardView_Example.framework */;
+			productReference = E20CEAAB37A3FE345D09E56A8777A54A /* Pods-ThreeDCardView_Example */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -382,7 +382,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5F078DCB3CE2CB132D3A736E8F6338FC /* Resources */ = {
+		267114E7D7BAE27165B3DF69204DBECC /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -399,15 +399,19 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		0FAC10A14AA4BFA9D3E9F9FA3824068A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4E95403C6FB1E1256CD613E381D4B14C /* Pods-ThreeDCardView_ExampleTests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		188C1290614C9E3B74FCE2ABBDCD5C7A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				88FB62CDA2C726409FC37AB0744921CD /* Pods-ThreeDCardView_Example-dummy.m in Sources */,
-				042C6ECB277F01FC004C42B0 /* ThreeDCardCell.swift in Sources */,
-				042C6ECD277F01FF004C42B0 /* ThreeDCardView.swift in Sources */,
-				042C6EC6277F01EF004C42B0 /* Card.swift in Sources */,
-				042C6EC7277F01F3004C42B0 /* ThreeDCardDataSource.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -423,18 +427,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BAC748F92B2BF09260F2BA70DD9696F6 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				042C6EC8277F01F4004C42B0 /* ThreeDCardDataSource.swift in Sources */,
-				042C6ECA277F01FC004C42B0 /* ThreeDCardCell.swift in Sources */,
-				042C6ECC277F01FF004C42B0 /* ThreeDCardView.swift in Sources */,
-				042C6EC9277F01F7004C42B0 /* Card.swift in Sources */,
-				D3B64D69C247E205D71F12AC1FC1FFEC /* Pods-ThreeDCardView_ExampleTests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -444,178 +436,16 @@
 			target = 303F4B169D78805DE3002D7593A7BECF /* ThreeDCardView */;
 			targetProxy = EB7AA0356B557FE09D7E9DED2C0CCD4A /* PBXContainerItemProxy */;
 		};
+		EE61E723608D5D1A84CF4C707E09218B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-ThreeDCardView_Example";
+			target = EB84EC4E9C9CCDAA59A8AA18443D6A23 /* Pods-ThreeDCardView_Example */;
+			targetProxy = D14F45EDAC186B9BDDF9ECEF39DAC6B1 /* PBXContainerItemProxy */;
+		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		16988E464062E6AA9AC9274B2A1D8FE2 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0EDE36194B694264212672A1F519A590 /* Pods-ThreeDCardView_ExampleTests.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-ThreeDCardView_ExampleTests/Pods-ThreeDCardView_ExampleTests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-ThreeDCardView_ExampleTests/Pods-ThreeDCardView_ExampleTests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		2BB3A0210697E156E6DBD767CEBA35B6 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = F590EA930B558E22A346F937EAC4F7E6 /* ThreeDCardView.debug.xcconfig */;
-			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/ThreeDCardView/ThreeDCardView-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/ThreeDCardView/ThreeDCardView-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/ThreeDCardView/ThreeDCardView.modulemap";
-				PRODUCT_MODULE_NAME = ThreeDCardView;
-				PRODUCT_NAME = ThreeDCardView;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		30CA2432A138A2402966A7CDE2795017 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 82A17FA348ECEBAA944241EC733B661E /* Pods-ThreeDCardView_Example.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-ThreeDCardView_Example/Pods-ThreeDCardView_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-ThreeDCardView_Example/Pods-ThreeDCardView_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		5D0328C2EBB820F6A8E795C66B7CD1C4 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6E9A06E6F77BDFA3C86E0F71ED4BDA2D /* ThreeDCardView.release.xcconfig */;
-			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/ThreeDCardView/ThreeDCardView-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/ThreeDCardView/ThreeDCardView-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/ThreeDCardView/ThreeDCardView.modulemap";
-				PRODUCT_MODULE_NAME = ThreeDCardView;
-				PRODUCT_NAME = ThreeDCardView;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		85877F85F5C2C750915D6AE7C35D553C /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0C6602AC78CA1FCB42CE60C9D6D0E53D /* Pods-ThreeDCardView_ExampleTests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-ThreeDCardView_ExampleTests/Pods-ThreeDCardView_ExampleTests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-ThreeDCardView_ExampleTests/Pods-ThreeDCardView_ExampleTests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		8DE5143C03248BB6CD542DE3963D6F3A /* Debug */ = {
+		25AD9454612BF454A1E3DC4CD4FA8C6D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -681,7 +511,168 @@
 			};
 			name = Debug;
 		};
-		9E406C6AAF85E580207CD97B0044DEAB /* Release */ = {
+		46D30626A9A8AB16CB510FDC77F6DB5F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0EDE36194B694264212672A1F519A590 /* Pods-ThreeDCardView_ExampleTests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-ThreeDCardView_ExampleTests/Pods-ThreeDCardView_ExampleTests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-ThreeDCardView_ExampleTests/Pods-ThreeDCardView_ExampleTests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		4E345A5EEB5EF4D20803BAD7438DF4D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0C6602AC78CA1FCB42CE60C9D6D0E53D /* Pods-ThreeDCardView_ExampleTests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-ThreeDCardView_ExampleTests/Pods-ThreeDCardView_ExampleTests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-ThreeDCardView_ExampleTests/Pods-ThreeDCardView_ExampleTests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		7331B067468D3B80FADC9964F1646121 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F590EA930B558E22A346F937EAC4F7E6 /* ThreeDCardView.debug.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/ThreeDCardView/ThreeDCardView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ThreeDCardView/ThreeDCardView-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ThreeDCardView/ThreeDCardView.modulemap";
+				PRODUCT_MODULE_NAME = ThreeDCardView;
+				PRODUCT_NAME = ThreeDCardView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		C862B3D8C0BE6F5A3725B4D6AD8A1215 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6E9A06E6F77BDFA3C86E0F71ED4BDA2D /* ThreeDCardView.release.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/ThreeDCardView/ThreeDCardView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ThreeDCardView/ThreeDCardView-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ThreeDCardView/ThreeDCardView.modulemap";
+				PRODUCT_MODULE_NAME = ThreeDCardView;
+				PRODUCT_NAME = ThreeDCardView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		C9E87E8EA42FD65B7BDCB8B7A75ADE02 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 578F0FA6AAEA07D1A79AC4318144B6B3 /* Pods-ThreeDCardView_Example.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-ThreeDCardView_Example/Pods-ThreeDCardView_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-ThreeDCardView_Example/Pods-ThreeDCardView_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		CA547D2C7E9A8A153DC2B27FBE00B112 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -736,19 +727,18 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
 		};
-		BC1D90F11ACE23EFDAB34590BE9ACF11 /* Release */ = {
+		EDEB3648966F06DC64AFCD9E4B4E43C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 578F0FA6AAEA07D1A79AC4318144B6B3 /* Pods-ThreeDCardView_Example.release.xcconfig */;
+			baseConfigurationReference = 82A17FA348ECEBAA944241EC733B661E /* Pods-ThreeDCardView_Example.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -771,11 +761,10 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
 /* End XCBuildConfiguration section */
 
@@ -783,8 +772,17 @@
 		2A26C114C37A41393C4A1CB75CB65600 /* Build configuration list for PBXNativeTarget "ThreeDCardView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2BB3A0210697E156E6DBD767CEBA35B6 /* Debug */,
-				5D0328C2EBB820F6A8E795C66B7CD1C4 /* Release */,
+				7331B067468D3B80FADC9964F1646121 /* Debug */,
+				C862B3D8C0BE6F5A3725B4D6AD8A1215 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		417DCF457078245F153DA0681551C131 /* Build configuration list for PBXNativeTarget "Pods-ThreeDCardView_ExampleTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				46D30626A9A8AB16CB510FDC77F6DB5F /* Debug */,
+				4E345A5EEB5EF4D20803BAD7438DF4D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -792,17 +790,8 @@
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8DE5143C03248BB6CD542DE3963D6F3A /* Debug */,
-				9E406C6AAF85E580207CD97B0044DEAB /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		8A954FA0F67B32DF3DEE918432777167 /* Build configuration list for PBXNativeTarget "Pods-ThreeDCardView_ExampleTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				16988E464062E6AA9AC9274B2A1D8FE2 /* Debug */,
-				85877F85F5C2C750915D6AE7C35D553C /* Release */,
+				25AD9454612BF454A1E3DC4CD4FA8C6D /* Debug */,
+				CA547D2C7E9A8A153DC2B27FBE00B112 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -810,8 +799,8 @@
 		9A7E1E7276E8038D0D201962CBE923DF /* Build configuration list for PBXNativeTarget "Pods-ThreeDCardView_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				30CA2432A138A2402966A7CDE2795017 /* Debug */,
-				BC1D90F11ACE23EFDAB34590BE9ACF11 /* Release */,
+				EDEB3648966F06DC64AFCD9E4B4E43C7 /* Debug */,
+				C9E87E8EA42FD65B7BDCB8B7A75ADE02 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
