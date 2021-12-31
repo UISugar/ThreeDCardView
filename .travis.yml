@@ -1,5 +1,5 @@
 language: swift
-osx_image: xcode12.1
+osx_image: xcode11.5
 xcode_workspace: ThreeDCardView.xcworkspace
 xcode_scheme: ThreeDCardView-Example
 xcode_destination: platform=iOS Simulator,OS=13.1,name=iPhone 11 Pro
