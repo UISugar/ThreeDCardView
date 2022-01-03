@@ -48,7 +48,7 @@ ipad pro 5th            |  iphone 13 pro
 
 ## Installation
 
-FomaViewableSound is available through [CocoaPods](https://cocoapods.org). To install
+ThreeDCardView is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
@@ -61,4 +61,4 @@ fomagran, fomagran6@naver.com
 
 ## License
 
-FomaViewableSound is available under the MIT license. See the LICENSE file for more info.
+ThreeDCardView is available under the MIT license. See the LICENSE file for more info.
